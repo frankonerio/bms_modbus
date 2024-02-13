@@ -1,0 +1,8 @@
+../Core/Src/modbus.c:27:6:get_HB_LB	24	static
+../Core/Src/modbus.c:35:11:make_word	24	static
+../Core/Src/modbus.c:47:10:MODBUS_RTU_CRC16	24	static
+../Core/Src/modbus.c:74:6:modbus_receive	48	static
+../Core/Src/modbus.c:166:6:modbus_transmit	4	static
+../Core/Src/modbus.c:169:6:MODBUS_receive_task	200	static
+../Core/Src/modbus.c:481:6:MODBUS_send_task	32	static
+../Core/Src/modbus.c:504:13:RTU_RX_Int	16	static
